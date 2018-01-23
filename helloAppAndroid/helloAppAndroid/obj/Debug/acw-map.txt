@@ -1,0 +1,4 @@
+helloAppAndroid.MainActivity, helloAppAndroid;md5a8cb7953ca2a63ed3724d239b05d670b.MainActivity
+helloAppAndroid.MainActivity, helloAppAndroid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a8cb7953ca2a63ed3724d239b05d670b.MainActivity
+helloAppAndroid.MainActivity;md5a8cb7953ca2a63ed3724d239b05d670b.MainActivity
+helloappandroid.MainActivity;md5a8cb7953ca2a63ed3724d239b05d670b.MainActivity

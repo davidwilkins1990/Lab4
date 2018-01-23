@@ -1,0 +1,10 @@
+C:\Users\aManHasNoName\source\repos\Submarines\Submarines\bin\Debug\Submarines.exe.config
+C:\Users\aManHasNoName\source\repos\Submarines\Submarines\bin\Debug\Submarines.exe
+C:\Users\aManHasNoName\source\repos\Submarines\Submarines\bin\Debug\Submarines.pdb
+C:\Users\aManHasNoName\source\repos\Submarines\Submarines\obj\Debug\Submarines.csprojResolveAssemblyReference.cache
+C:\Users\aManHasNoName\source\repos\Submarines\Submarines\obj\Debug\Submarines.Form1.resources
+C:\Users\aManHasNoName\source\repos\Submarines\Submarines\obj\Debug\Submarines.Properties.Resources.resources
+C:\Users\aManHasNoName\source\repos\Submarines\Submarines\obj\Debug\Submarines.csproj.GenerateResource.Cache
+C:\Users\aManHasNoName\source\repos\Submarines\Submarines\obj\Debug\Submarines.csproj.CoreCompileInputs.cache
+C:\Users\aManHasNoName\source\repos\Submarines\Submarines\obj\Debug\Submarines.exe
+C:\Users\aManHasNoName\source\repos\Submarines\Submarines\obj\Debug\Submarines.pdb

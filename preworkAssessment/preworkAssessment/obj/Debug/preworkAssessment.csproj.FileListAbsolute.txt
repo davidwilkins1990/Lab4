@@ -1,0 +1,7 @@
+C:\Users\aManHasNoName\source\repos\preworkAssessment\preworkAssessment\bin\Debug\preworkAssessment.exe.config
+C:\Users\aManHasNoName\source\repos\preworkAssessment\preworkAssessment\bin\Debug\preworkAssessment.exe
+C:\Users\aManHasNoName\source\repos\preworkAssessment\preworkAssessment\bin\Debug\preworkAssessment.pdb
+C:\Users\aManHasNoName\source\repos\preworkAssessment\preworkAssessment\obj\Debug\preworkAssessment.csprojResolveAssemblyReference.cache
+C:\Users\aManHasNoName\source\repos\preworkAssessment\preworkAssessment\obj\Debug\preworkAssessment.csproj.CoreCompileInputs.cache
+C:\Users\aManHasNoName\source\repos\preworkAssessment\preworkAssessment\obj\Debug\preworkAssessment.exe
+C:\Users\aManHasNoName\source\repos\preworkAssessment\preworkAssessment\obj\Debug\preworkAssessment.pdb
